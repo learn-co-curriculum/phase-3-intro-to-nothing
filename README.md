@@ -6,11 +6,7 @@
 
 ## Introduction
 
-Throughout your career as a developer, it's highly likely that you'll be
-expected to learn multiple languages depending on the companies you work for and
-the kind of projects you're working on. After gaining confidence with one
-language, like JavaScript, it can feel overwhelming and even scary to start over
-from scratch with a totally new language.
+Throughout your career as a developer, it's highly unlikely 
 
 Thankfully, we can tell you from experience that learning a new programming
 language isn't so bad! While you were learning JavaScript, you were also
